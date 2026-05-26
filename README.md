@@ -23,3 +23,7 @@ To eliminate friction, fraud, and delay in humanitarian aid, ensuring that 100% 
 Compile the smart contract to WebAssembly:
 ```bash
 soroban contract build
+
+Contract ID: CD6IKGKAV3PP677BOHLAXRYDLWURWPIBL5ADFCEUCJDBSESBLPUJXKH4
+https://stellar.expert/explorer/testnet/contract/CD6IKGKAV3PP677BOHLAXRYDLWURWPIBL5ADFCEUCJDBSESBLPUJXKH4
+
