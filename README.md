@@ -25,5 +25,9 @@ Compile the smart contract to WebAssembly:
 soroban contract build
 
 Contract ID: CD6IKGKAV3PP677BOHLAXRYDLWURWPIBL5ADFCEUCJDBSESBLPUJXKH4
+
+Link Stellar Expert
 https://stellar.expert/explorer/testnet/contract/CD6IKGKAV3PP677BOHLAXRYDLWURWPIBL5ADFCEUCJDBSESBLPUJXKH4
 
+screenshot
+![alt text](image-1.png)
